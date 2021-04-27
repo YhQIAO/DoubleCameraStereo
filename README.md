@@ -8,3 +8,9 @@
 
 ## 代码说明
 1. Camera相机类
+2. SIFTMatcher SIFT特征匹配类
+3. SfMSolver sfm解算类
+4. SparseReconstructor 稀疏重建类
+
+## 测试结果
+测试图片：
